@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : F:\FYP-EMG\altium\IMU-PCB\Sensor-node\PCB_V11.PcbDoc
+Date         : 8/31/2026
+Time         : 11:09:43 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 38.1mmx25.4mm
+    Components on board, 32
+count : 2

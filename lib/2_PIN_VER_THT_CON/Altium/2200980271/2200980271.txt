@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-29072024-108808";"";
+"REFERENCE";"2200980271";"";
+"TraceParts.PartTitle";"Micro-Lock Plus";"";
+"TraceParts.InstanceId";"33-29072024-10880897VZTHGHOHZW48F7WQPOFCR0P";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"1.25mm Pitch, Micro-Lock Plus PCB Header, Single Row, Right-Angle, Through Hole, Tin-Bismuth Plating, Positive Lock, 2 Circuits, Black";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.5";"";
